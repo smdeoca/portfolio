@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 .NET 6 Portfolio
