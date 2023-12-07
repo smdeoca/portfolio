@@ -18,3 +18,19 @@
     line-height: 1.5;
     font-size: 1.25rem;
 }
+
+.tarjetaExperiencia {
+    margin-top: -105px;
+    border-radius: 15px;
+    box-shadow: 0 5px 5px 0;
+}
+
+.tarjetaExperiencia > ul {
+    list-style: none;
+    padding: 0px
+}
+
+.bi-person-vcard-fill {
+    color: rebeccapurple;
+    font-size: 40px;
+}
