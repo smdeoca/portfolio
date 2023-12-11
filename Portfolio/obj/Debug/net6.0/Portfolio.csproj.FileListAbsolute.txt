@@ -24,3 +24,7 @@ C:\Users\sebastian.montesdeoc\source\repos\Portfolio\Portfolio\obj\Debug\net6.0\
 C:\Users\sebastian.montesdeoc\source\repos\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.pdb
 C:\Users\sebastian.montesdeoc\source\repos\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.genruntimeconfig.cache
 C:\Users\sebastian.montesdeoc\source\repos\Portfolio\Portfolio\obj\Debug\net6.0\ref\Portfolio.dll
+C:\Users\sebastian.montesdeoc\source\repos\Portfolio\Portfolio\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sebastian.montesdeoc\source\repos\Portfolio\Portfolio\bin\Debug\net6.0\SendGrid.dll
+C:\Users\sebastian.montesdeoc\source\repos\Portfolio\Portfolio\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\sebastian.montesdeoc\source\repos\Portfolio\Portfolio\obj\Debug\net6.0\Portfolio.csproj.CopyComplete
